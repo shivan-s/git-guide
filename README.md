@@ -21,5 +21,25 @@ This is a place for code to live in order to be shared and worked on collaborati
 Use the command to initial a git repository.
 
 ```bash
+
 git init
+
 ```
+
+There will be instructions provided by `git` and on `GitHub` on how to add your code to a repository on GitHub.
+
+**Tip:** I like to create the repository on GitHub first and then clone this. It saves having to set up and connect the repository.
+
+You can add changes to you code like do:
+
+```bash
+
+git add .
+
+git commit -m '<your message>'
+
+git commit --amend # can be used to amend a commit message
+
+```
+
+Refer to [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) on better commit messages.
