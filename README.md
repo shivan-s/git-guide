@@ -43,3 +43,9 @@ git commit --amend # can be used to amend a commit message
 ```
 
 Refer to [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) on better commit messages.
+
+This is probably all you will need to get started sharing your personal projects online. The next sections include some extra workflow to help you out.
+
+## Issue -> Branch -> PR -> Merge
+
+Assigning a issue to a particular feature or fix, and then a branch to this can help your workflow a lot.
